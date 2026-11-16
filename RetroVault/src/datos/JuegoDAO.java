@@ -8,7 +8,7 @@ package datos;
  *
  * @author 2DAM
  */
-import es.izquierdofp.retrovault.modelo.Juego;
+import modelo.Juego;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
